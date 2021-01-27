@@ -4,6 +4,7 @@
       <mapping pattern="enabled_plugins" type="AUTO_DETECTED" />
       <mapping pattern="README" type="AUTO_DETECTED" />
       <mapping pattern="local-php-security-checker" type="AUTO_DETECTED" />
+      <mapping pattern="DockerfIle" type="AUTO_DETECTED" />
       <mapping ext="ng" type="HTML" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="cookie" type="PLAIN_TEXT" />
