@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="enabled_plugins" type="AUTO_DETECTED" />
+      <mapping pattern="README" type="AUTO_DETECTED" />
       <mapping pattern="local-php-security-checker" type="AUTO_DETECTED" />
       <mapping ext="ng" type="HTML" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
