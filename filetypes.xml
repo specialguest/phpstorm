@@ -9,6 +9,7 @@
       <mapping ext="ng" type="HTML" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="cookie" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
       <mapping ext="traefik" type="PLAIN_TEXT" />
