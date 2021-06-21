@@ -4,7 +4,9 @@
       <mapping pattern="enabled_plugins" type="AUTO_DETECTED" />
       <mapping pattern="proxy_params" type="AUTO_DETECTED" />
       <mapping pattern="README" type="AUTO_DETECTED" />
+      <mapping pattern="proxy_errors" type="AUTO_DETECTED" />
       <mapping pattern="supervisor_errors" type="AUTO_DETECTED" />
+      <mapping pattern="proxy_access" type="AUTO_DETECTED" />
       <mapping pattern="local-php-security-checker" type="AUTO_DETECTED" />
       <mapping pattern="DockerfIle" type="AUTO_DETECTED" />
       <mapping ext="ng" type="HTML" />
