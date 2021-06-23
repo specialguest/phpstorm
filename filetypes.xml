@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="enabled_plugins" type="AUTO_DETECTED" />
       <mapping pattern="proxy_params" type="AUTO_DETECTED" />
+      <mapping pattern="e675c6" type="AUTO_DETECTED" />
       <mapping pattern="README" type="AUTO_DETECTED" />
       <mapping pattern="proxy_errors" type="AUTO_DETECTED" />
       <mapping pattern="supervisor_errors" type="AUTO_DETECTED" />
