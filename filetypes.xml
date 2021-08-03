@@ -1,15 +1,15 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="enabled_plugins" type="AUTO_DETECTED" />
-      <mapping pattern="proxy_params" type="AUTO_DETECTED" />
-      <mapping pattern="e675c6" type="AUTO_DETECTED" />
-      <mapping pattern="README" type="AUTO_DETECTED" />
-      <mapping pattern="proxy_errors" type="AUTO_DETECTED" />
       <mapping pattern="supervisor_errors" type="AUTO_DETECTED" />
+      <mapping pattern="enabled_plugins" type="AUTO_DETECTED" />
+      <mapping pattern="DockerfIle" type="AUTO_DETECTED" />
       <mapping pattern="proxy_access" type="AUTO_DETECTED" />
       <mapping pattern="local-php-security-checker" type="AUTO_DETECTED" />
-      <mapping pattern="DockerfIle" type="AUTO_DETECTED" />
+      <mapping pattern="e675c6" type="AUTO_DETECTED" />
+      <mapping pattern="proxy_params" type="AUTO_DETECTED" />
+      <mapping pattern="proxy_errors" type="AUTO_DETECTED" />
+      <mapping pattern="README" type="AUTO_DETECTED" />
       <mapping ext="ng" type="HTML" />
       <mapping pattern=".phpcs" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
