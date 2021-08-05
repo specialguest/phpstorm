@@ -11,9 +11,11 @@
       <mapping pattern="local-php-security-checker" type="AUTO_DETECTED" />
       <mapping pattern="DockerfIle" type="AUTO_DETECTED" />
       <mapping ext="ng" type="HTML" />
+      <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
       <mapping pattern=".phpcs" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".dev" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="cookie" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
@@ -23,7 +25,6 @@
       <mapping ext="traefik" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="neon" approved="true" type="Neon" />
     </extensionMap>
   </component>
 </application>
