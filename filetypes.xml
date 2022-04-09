@@ -16,6 +16,7 @@
       <mapping pattern=".dev" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
       <mapping pattern=".giitkeep" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="cookie" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
