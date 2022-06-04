@@ -2,4 +2,7 @@
   <component name="KeyboardSettings">
     <option name="enabled" value="true" />
   </component>
+  <component name="UISettings">
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+  </component>
 </application>
